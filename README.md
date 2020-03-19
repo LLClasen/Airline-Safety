@@ -18,8 +18,10 @@ The below chart gives an example of the visualizations created to explore this d
 ## Resources
 Cho, S. J., & Olson, R. (2017, June 22). As Billions More Fly, Here's How Aviation Could Evolve. Retrieved from https://www.nationalgeographic.com/environment/urban-expeditions/transportation/air-travel-fuel-emissions-environment/
 
+https://cdan.dot.gov/query
+
+https://www.airlines.org/dataset/annual-results-u-s-airlines-2/]
 
 United States. National Highway Traffic Safety Administration. (2020).
-
 
 American Road & Transportation Builders Association (ARTBA). (2020). National Estimates of Total and Injury Work Zone Crashes. Retrieved from https://www.workzonesafety.org/crash-information/work-zone-injuries-injury-property-damage-crashes/
