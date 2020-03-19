@@ -1,10 +1,11 @@
 # Airline-Safety
 This project explores commercial airline data to address recent concerns in airline safety using exploratory data analysis and visualization. The project consists of four pieces:
 
-*Dashboard of important visualizations
-*Executive summary overview of analysis
-*Infographic for public consumption
-*Video for public consumption
+<ul>
+  <li>Dashboard of important visualizations</li>
+  <li>Executive summary overview of analysis</li>
+  <li>Infographic for public consumption</li>
+  <li>Video for public consumption</li>
 
 ## Motivation
 This project was inspired by an assignment in a graduate-level data analysis and visualization course.
