@@ -6,6 +6,7 @@ This project explores commercial airline data to address recent concerns in airl
   <li>Executive summary overview of analysis</li>
   <li>Infographic for public consumption</li>
   <li>Video for public consumption</li>
+ </ul>
 
 ## Motivation
 This project was inspired by an assignment in a graduate-level data analysis and visualization course. This is an incredibly important topic to discuss factually in modern times as air travel has becomes one of the most common modes of transportation. It is up to the airline community, and their data employees, to bring forth the facts in such a way that the public can easily consume and understand the reality of safety with air travel.
