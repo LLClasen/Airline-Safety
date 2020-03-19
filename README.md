@@ -5,7 +5,8 @@ This project explores commercial airline data to address recent concerns in airl
 This project was inspired by an assignment in a graduate-level course 
 
 ## Snippet
-<img src='https://i.imgur.com/dgKODHw.png">
+The below chart gives an example of the visualizations created to explore this data.
+<img src="https://i.imgur.com/dgKODHw.png" title="Fatal Crashes by Airline">
 
 ## Resources
 TODO: Write usage instructions
